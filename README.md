@@ -1,3 +1,12 @@
+
+
+
+
+
+![Screenshot 2025-03-27 003708](https://github.com/user-attachments/assets/858050d7-ae81-4251-bb91-693e1c5258f6)
+
+
+
 # YOLOv8 Live Camera Object Detection and Annotation
 
 ## Overview
